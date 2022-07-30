@@ -22,3 +22,4 @@ View function.php file to understand the code
 
 
 
+<hr>
