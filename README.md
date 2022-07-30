@@ -12,5 +12,5 @@ PHP programing language and MySQL
     image upload function is in this file
   3. img_upload_test.php <br>
     template about image upload form     
-  4. image_upload.sql <br>
+  4. images_upload.sql <br>
     template about image upload form     
