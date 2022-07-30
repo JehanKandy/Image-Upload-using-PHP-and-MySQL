@@ -6,3 +6,5 @@ In the code I am going to show you have to upload images to database using <br>
 PHP programing language and MySQL
 
 # About Files in here
+  1. config.php
+    Connection file to Database
