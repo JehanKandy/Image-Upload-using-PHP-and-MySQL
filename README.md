@@ -10,4 +10,4 @@ PHP programing language and MySQL
     Connection file to Database
   2. function.php <br>
     image upload function is in this file
-    
+  3. img_upload_test.php <br>
