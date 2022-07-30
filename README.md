@@ -17,3 +17,7 @@ PHP programing language and MySQL
   
   
 # Comment 
+
+View function.php file to understand the code
+
+
