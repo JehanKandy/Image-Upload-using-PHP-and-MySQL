@@ -9,3 +9,5 @@ PHP programing language and MySQL
   1. config.php <br>
     Connection file to Database
   2. function.php <br>
+    image upload function is in this file
+    
