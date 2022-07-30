@@ -8,3 +8,4 @@ PHP programing language and MySQL
 # About Files in here
   1. config.php <br>
     Connection file to Database
+  2. function.php <br>
